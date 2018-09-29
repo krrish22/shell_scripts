@@ -12,4 +12,4 @@ else
 echo "$3 is grater"
 
 fi
-
+echo modified by #gajanand
